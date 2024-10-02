@@ -1,0 +1,48 @@
+### Regulamin Spotted Ciechanów 02.10.2024
+
+1. **Postanowienia ogólne**  
+   Spotted Ciechanów jest platformą umożliwiającą anonimową publikację treści użytkowników, przesyłanych za pośrednictwem Tellonym. Celem tej strony jest stworzenie przestrzeni do swobodnej wymiany opinii i myśli. Administrator pełni funkcję techniczną i nie jest autorem publikowanych treści.
+
+2. **Odpowiedzialność za treści**  
+   a. **Pełną odpowiedzialność za treści opublikowane na Spotted Ciechanów ponoszą ich autorzy**.  
+   b. Administrator konta nie ponosi odpowiedzialności za treści przesyłane przez użytkowników. Wszelkie roszczenia, skargi lub działania prawne dotyczące treści powinny być kierowane do autorów wiadomości.
+   
+3. **Zasady publikacji treści**  
+   a. Wszystkie wiadomości są publikowane **anonimowo**, bez możliwości ustalenia tożsamości autora przez administratora.  
+   b. Administrator nie ingeruje w treści przesyłane przez użytkowników, **za wyjątkiem automatycznej cenzury, która dotyczy niecenzuralnych słów oraz nazwisk osób trzecich**.  
+   c. **Automatyczna cenzura**: System stosuje **automatyczną cenzurę wyrazów powszechnie uznawanych za niecenzuralne oraz nazwisk osób trzecich**. Filtracja ta służy ochronie danych osobowych oraz zapewnieniu zgodności z prawem, ale nie jest ingerencją w merytoryczną treść wiadomości.  
+   d. Treści nie są poddawane wstępnej cenzurze ani moderacji, chyba że bezpośrednio naruszają obowiązujące przepisy prawa, takie jak:
+   - Ochrona danych osobowych (publikacja danych osobowych innych osób bez zgody).
+   - Przepisy dotyczące zniesławienia, mowy nienawiści, nawoływania do przemocy i inne przestępstwa opisane w prawie karnym.
+
+4. **Moderacja i zgłoszenia**  
+   a. Administrator **nie dokonuje aktywnej moderacji treści przed ich publikacją**, jednak zastrzega sobie prawo do usuwania treści naruszających prawo po ich zgłoszeniu.  
+   b. Użytkownicy mogą zgłaszać treści, które w ich ocenie naruszają prawo lub regulamin. Administrator zobowiązuje się do szybkiego rozpatrzenia zgłoszeń i podjęcia odpowiednich działań, jeśli zgłoszona treść faktycznie narusza przepisy prawa.
+
+5. **Ochrona prywatności i danych osobowych**  
+   a. Administrator nie zbiera ani nie przetwarza danych osobowych użytkowników.  
+   b. Publikacja danych osobowych osób trzecich bez ich wyraźnej zgody jest surowo zabroniona. **Automatyczna cenzura nazwisk** służy ochronie prywatności osób trzecich.  
+   c. Pełną odpowiedzialność za treści naruszające przepisy o ochronie danych osobowych ponoszą autorzy wiadomości.
+
+6. **Zasady prawne i ograniczenia**  
+   a. Mimo dążenia do zapewnienia maksymalnej swobody wypowiedzi, administrator zastrzega sobie prawo do usunięcia treści, które:
+   - Naruszają obowiązujące przepisy prawa polskiego, w tym m.in. nawoływanie do przemocy, mowa nienawiści, zniesławienie, naruszenie prywatności.
+   - Zawierają dane osobowe innych osób bez ich zgody.
+   b. W przypadku otrzymania zgłoszenia o treści łamiącej przepisy prawa, administrator zobowiązuje się do jej usunięcia w najszybszym możliwym terminie.
+
+7. **Odpowiedzialność użytkowników**  
+   a. Przesyłając wiadomość na Spotted Ciechanów, użytkownik oświadcza, że treść nie narusza prawa i przyjmuje pełną odpowiedzialność za jej zawartość.  
+   b. W przypadku naruszenia prawa przez przesłaną treść, pełna odpowiedzialność prawna spada na autora wiadomości. **Administrator Spotted Ciechanów nie ponosi odpowiedzialności za treści użytkowników**.
+
+8. **Zmiany w regulaminie**  
+   Administrator zastrzega sobie prawo do wprowadzania zmian w regulaminie w dowolnym momencie. Zmiany będą publikowane na stronie i wchodzą w życie z dniem ich opublikowania.
+
+---
+
+### Ważne informacje dla użytkowników:
+- Treści są publikowane anonimowo, ale muszą być zgodne z przepisami prawa.
+- Administrator nie dokonuje moderacji treści przed ich publikacją, ale nielegalne treści mogą być usunięte po zgłoszeniu.
+- Automatyczna cenzura dotyczy tylko wyrazów niecenzuralnych oraz nazwisk osób trzecich, zgodnie z przepisami o ochronie danych osobowych.
+- Pełną odpowiedzialność za przesyłane treści ponoszą ich autorzy.
+
+---
